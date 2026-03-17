@@ -145,8 +145,9 @@ Smriti notified: Order is Delivered
 ---
 
 
-## 👩‍💻 Author
+##  Author
 **Smriti Jha**
+**Khushi Gupta**
 
 ---
 
