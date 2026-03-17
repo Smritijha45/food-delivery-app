@@ -1,36 +1,36 @@
-# 🍔 Food Delivery Application (Java + Design Patterns)
+#  Food Delivery Application (Java + Design Patterns)
 
-## 📌 Overview
+##  Overview
 This project is a basic **Food Delivery Application** built in Java to demonstrate the use of important **Object-Oriented Design Patterns**.  
 It simulates core features of apps like Zomato/Swiggy while focusing on clean, scalable architecture.
 
 ---
 
-## 🚀 Features
-- 👤 User creation using Factory Pattern  
-- 🍔 Food customization using Decorator Pattern  
-- 💳 Multiple payment options using Strategy Pattern  
-- 🔔 Real-time order status updates using Observer Pattern  
+##  Features
+-  User creation using Factory Pattern  
+-  Food customization using Decorator Pattern  
+-  Multiple payment options using Strategy Pattern  
+-  Real-time order status updates using Observer Pattern  
 
 ---
 
-## 🧠 Design Patterns Used
+##  Design Patterns Used
 
-### 🏭 Factory Pattern
+###  Factory Pattern
 Creates user objects (e.g., Customer) without exposing instantiation logic.
 
-### 💳 Strategy Pattern
+###  Strategy Pattern
 Handles multiple payment methods like UPI and Card dynamically.
 
-### 🍕 Decorator Pattern
+###  Decorator Pattern
 Adds extra items (like Cheese) to food without modifying base classes.
 
-### 🔔 Observer Pattern
+###  Observer Pattern
 Notifies users about order status updates (Preparing → Delivered).
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 food-delivery/
@@ -46,7 +46,7 @@ food-delivery/
 
 ---
 
-## 📊 UML Class Diagram
+##  UML Class Diagram
 
 ```
                 +------------------+
@@ -113,7 +113,7 @@ food-delivery/
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 ### 1. Open in VS Code  
 ### 2. Navigate to `src` folder  
@@ -130,7 +130,7 @@ java Main
 
 ---
 
-## 🎯 Sample Output
+##  Sample Output
 
 ```
 Smriti is a Customer
@@ -144,13 +144,6 @@ Smriti notified: Order is Delivered
 
 ---
 
-## 💡 Future Improvements
-- 🚀 Convert into Spring Boot backend  
-- 🌐 Add React frontend  
-- 🗄️ Integrate MySQL database  
-- 🔐 Add authentication (JWT)  
-
----
 
 ## 👩‍💻 Author
 **Smriti Jha**
